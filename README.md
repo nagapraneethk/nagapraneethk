@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nagapraneethk&label=Profile%20views&color=0e75b6&style=flat" alt="nagapraneethk" /> </p>
 
-- 🌱 I’m currently learning **Python.**
+- 🌱 I’m currently learning **Python** for **ML**.
   
 - 🌐 Bridging the Gap Between Data and Decision with **ML**🔭
 
